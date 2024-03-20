@@ -1,6 +1,6 @@
 # Application for a Personal Computer composition
 
-## [***Software requirements in text format***](docs/markdown/software-requirements.md) in text format
+## [***Software requirements***](docs/markdown/software-requirements.md) in text format
 
 The two stakeholders of our system, the direct users, are the customers and employers of the business.
 
